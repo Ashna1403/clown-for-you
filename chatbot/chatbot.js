@@ -80,4 +80,5 @@ inputBox.addEventListener("keydown", (event) => {
     send.click();
   }
 });
+
 toggleSendBtn();
